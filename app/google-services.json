@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "243538498924",
+    "firebase_url": "https://babble-2de15-default-rtdb.firebaseio.com",
+    "project_id": "babble-2de15",
+    "storage_bucket": "babble-2de15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243538498924:android:bf22dfc1a82611369e8f49",
+        "android_client_info": {
+          "package_name": "com.example.babble"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243538498924-v9nk8k7teb5s092demijiedjmn8h84hl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.babble",
+            "certificate_hash": "1fcdc51cf125971dfb7cd31f4fa2b983a4f40798"
+          }
+        },
+        {
+          "client_id": "243538498924-9h2gc19pk988t4ec2ps3e44656buphp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH33ncHQRB29e58k59KWNmmqm9lE3ZrJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243538498924-9h2gc19pk988t4ec2ps3e44656buphp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
